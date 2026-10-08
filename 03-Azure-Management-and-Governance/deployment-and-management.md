@@ -48,5 +48,3 @@ Azure Arc provides Azure-style management, governance and visibility for support
 | Deploy infrastructure consistently from code | **ARM/Bicep** |
 | Perform a quick manual configuration | **Azure portal** |
 | Script resource operations | **Azure CLI / PowerShell** |
-
-**From your notes:** Azure portal, Cloud Shell, CLI, PowerShell, Copilot and Azure Arc. **Syllabus supplement:** ARM, templates and IaC.
