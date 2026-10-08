@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 315" role="img" aria-label="AZ-900 Azure Fundamentals banner">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#082747"/><stop offset=".55" stop-color="#064c82"/><stop offset="1" stop-color="#177cba"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55c4ef"/><stop offset="1" stop-color="#b8eaff"/></linearGradient></defs>
+ <rect width="1200" height="315" rx="18" fill="url(#g)"/>
+ <g opacity=".16" stroke="#a9ddff" stroke-width="2" fill="none"><path d="M650 250q100-180 200-80t230-80M750 300q100-180 200-80t280-80"/><circle cx="1000" cy="63" r="110"/><circle cx="1100" cy="250" r="105"/></g>
+ <g transform="translate(68,61)"><path fill="url(#a)" d="M76 2H127L44 165H4Z"/><path fill="#59b6e9" d="M131 2 44 165h58L165 44Z"/><path fill="#e7f7ff" d="M58 124h95l20 41H35Z"/></g>
+ <text x="275" y="137" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="68">AZ-900</text>
+ <text x="279" y="190" fill="#d3ecff" font-family="Arial, Helvetica, sans-serif" font-size="32">MICROSOFT AZURE FUNDAMENTALS</text>
+ <text x="280" y="229" fill="#bad9ee" font-family="Arial, Helvetica, sans-serif" font-size="21">Cloud concepts  ·  Architecture &amp; services  ·  Governance</text>
+</svg>
