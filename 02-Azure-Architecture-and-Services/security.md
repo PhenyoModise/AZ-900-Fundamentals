@@ -53,5 +53,3 @@ Microsoft Defender for Cloud provides cloud security posture management and, wit
 
 > [!TIP]
 > “Which service provides security recommendations for cloud workloads?” → **Defender for Cloud**. “Where should an app store a database credential securely?” → **Key Vault**.
-
-**From your notes:** Zero Trust, defense in depth, encryption and Key Vault. **Syllabus supplement:** Defender for Cloud.
