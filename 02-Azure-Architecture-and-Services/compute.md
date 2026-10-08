@@ -2,9 +2,6 @@
 
 [← Architecture](architecture.md) · [Next: Networking →](networking.md)
 
-> [!NOTE]
-> **Syllabus supplement:** The uploaded PDFs focus much more on networking, storage and identity. This chapter fills out the **current AZ-900 compute objectives** in the Microsoft study guide.
-
 Azure provides multiple ways to run workloads. Choose the level of control and operational management you need.
 
 ## Compute choices
