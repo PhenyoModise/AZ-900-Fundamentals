@@ -2,8 +2,6 @@
 
 [← Redundancy](redundancy.md) · [Next: Identity →](identity-and-access.md)
 
-Your notes correctly identify two high-yield services: **Azure Migrate** for assessing and moving workloads and **Azure Data Box** for moving large datasets through physical devices.
-
 | | **Azure Migrate** | **Azure Data Box** |
 |:--|:--|:--|
 | Main goal | Plan, assess and migrate suitable infrastructure and workloads | Transfer large data volumes when network transfer is impractical |
@@ -18,8 +16,7 @@ Offers a centralised migration hub for supported workloads and partner tools. De
 1. **Discover** servers and workload dependencies.
 2. **Assess** readiness, right-sizing and estimated costs.
 3. **Migrate** supported servers, databases and applications using appropriate services/tools.
-
-Your notes mention server migration, SQL assessment/migration and web app migration assistance. These are related migration workstreams, not a promise that one tool automatically migrates every system.
+   
 
 ## Azure Data Box
 
@@ -34,4 +31,4 @@ Useful when:
 > [!WARNING]
 > Do not memorise a universal “**80 TB maximum**.” Capacities and supported Data Box products change by model, location and service availability.
 
-**From your notes:** Azure Migrate and Data Box workflows. **Technical correction:** device capacity is product-specific, not a timeless exam limit.
+**Technical correction:** device capacity is product-specific, not a timeless exam limit.
