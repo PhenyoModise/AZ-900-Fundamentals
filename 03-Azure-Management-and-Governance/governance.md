@@ -40,9 +40,3 @@ Microsoft Purview is a suite for **data governance, information protection, risk
 - Understanding data lineage and governance context.
 
 Its different offerings address different governance/compliance needs; don't assume every feature is one free product.
-
-### Optional related topic: Service Trust Portal
-
-The **Microsoft Service Trust Portal** provides access to certain Microsoft security, privacy, compliance and assurance resources. It appears in your handwritten notes but is **not a named skill** in the July 2026 AZ-900 outline. Treat it as related context rather than a priority AZ-900 topic.
-
-**From your notes:** Purview, Azure Policy, initiatives, resource locks and Service Trust Portal. **Corrections:** locks are not identical to permissions and do not block every type of operation.
