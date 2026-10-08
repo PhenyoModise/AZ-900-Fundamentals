@@ -46,5 +46,3 @@ flowchart LR
 
 > [!IMPORTANT]
 > **Serverless** means the platform manages server provisioning and scaling for you; it does not mean that servers cease to exist. Azure Functions is a common serverless compute example.
-
-**From your notes:** provider/customer responsibilities, flexibility and examples. **Syllabus supplement:** Azure examples and serverless clarification.
