@@ -46,5 +46,3 @@ You pay for the metered resources you use, subject to each service's pricing rul
 
 > [!TIP]
 > “Traffic suddenly doubles” → think **elasticity/autoscale**. “A datacenter fails but service continues” → think **reliability/high availability**. “Estimate future expenditure” → think **cost predictability**.
-
-**From your notes:** availability, vertical/horizontal scaling, reliability, predictability, CapEx/OpEx, consumption. **Syllabus supplement:** elasticity, governance, manageability and serverless context.
