@@ -33,10 +33,5 @@
 
 **Microsoft Entra ID** is a cloud identity platform. It is **not just an internet-hosted replica** of classic Windows Server Active Directory Domain Services (AD DS). Applications requiring classic domain join, LDAP or Group Policy may need **Microsoft Entra Domain Services**, self-managed AD DS, or architectural changes.
 
-> [!WARNING]
-> Some sign-in monitoring and risk features exist at different licence levels. It is **not accurate** to say suspicious-sign-in detection and all related protections are always free.
-
 > [!TIP]
 > **Login attempt** → authentication / Entra ID. **Permissions after login** → authorisation / RBAC. **Require MFA under conditions** → Conditional Access. **Legacy domain features** → Entra Domain Services.
-
-**From your notes:** Entra ID, synchronisation, Domain Services, Conditional Access and RBAC. **Syllabus supplement:** MFA, passwordless, external identities and licensing nuance.
