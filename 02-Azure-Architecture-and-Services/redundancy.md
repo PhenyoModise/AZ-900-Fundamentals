@@ -32,5 +32,3 @@ flowchart TD
 
 > [!TIP]
 > **LRS = one location; ZRS = several zones in one region; GRS = two regions; GZRS = zones plus a second region.** `RA-` means eligible **read access** to secondary data.
-
-**From your notes:** LRS, ZRS, GRS, GZRS and durability/secondary region concepts. **Clarification:** replication and disaster recovery trade-offs; avoid treating published durability figures as absolute guarantees.
