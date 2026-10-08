@@ -11,9 +11,9 @@
 </div>
 
 > [!IMPORTANT]
-> This is an **independent study resource**, not an official Microsoft publication. The structure follows Microsoft's **AZ-900 skills measured as of July 20, 2026**. Azure services, names, features, prices, and exam requirements can change. Check the [official study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900) before your exam.
+> This is an **independent study resource**, not an official Microsoft publication. The structure follows Microsoft's **AZ-900 skills measured as of July 20, 2026**. Azure services, names, features, prices, and exam requirements can change. 
 
-## Start here
+## Domain Structure
 
 | Domain | Exam weighting | What you'll learn | Open notes |
 |:--|:--:|:--|:--|
@@ -22,18 +22,17 @@
 | **03 · Management & Governance** | **30–35%** | Pricing, policies, deployment tools, monitoring | [Study Domain 3](03-Azure-Management-and-Governance/README.md) |
 | **04 · Exam Preparation** | Revision | Comparison tables, practice questions, last-minute revision | [Revision hub](04-Exam-Preparation/README.md) |
 
-## How to use this repository
+## How I used this repository
 
 1. **Read a domain in order.** Follow the `Next →` links at the bottom of each chapter.
 2. **Study the comparison tables.** AZ-900 tests when you would choose one service rather than another.
 3. **Review the `Exam tip` and `Watch out` callouts.** They identify common distractors and misconceptions.
-4. **Test yourself without looking at the answers.** Use the [practice questions](04-Exam-Preparation/practice-questions.md).
-5. **Check the correction log.** Some handwritten shorthand required technical clarification: [what changed](04-Exam-Preparation/corrections-log.md).
+
 
 ## Study checklist
 
 <details>
-<summary><strong>Track your progress (click to expand)</strong></summary>
+
 
 - [ ] Describe cloud computing and cloud deployment models
 - [ ] Explain the shared responsibility model
@@ -64,9 +63,6 @@ flowchart TD
     F -->|VM disks| I[Azure Managed Disks]
 ```
 
-## Source and accuracy policy
-
-These chapters were edited from **10 handwritten PDF note sets**. Spelling, grammar, duplicated statements and vague wording were cleaned up. **Corrections are explained rather than hidden.** Material added to cover official exam objectives is marked as *Syllabus supplement* where relevant. See [sources and scope](SOURCES.md).
 
 ### Helpful official links
 
@@ -77,4 +73,4 @@ These chapters were edited from **10 handwritten PDF note sets**. Spelling, gram
 
 ---
 
-<div align="center"><sub>Organised for learning, not memorising random product names. Update this repository as the Azure platform evolves.</sub></div>
+<div align="center"><sub>Organised for learning journey.</sub></div>
