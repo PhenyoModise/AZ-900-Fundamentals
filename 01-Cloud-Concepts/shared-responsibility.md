@@ -25,8 +25,3 @@ A virtual machine is **IaaS**:
 
 - Microsoft runs the physical datacenter, physical hosts and underlying cloud infrastructure.
 - The customer selects the VM size, manages its guest OS and patches it, deploys software, protects accounts and data, and configures access and network controls.
-
-> [!WARNING]
-> The statement “the provider handles *all networking*” is misleading. The provider handles **physical networking infrastructure**, but customers typically configure **virtual networks, firewalls, NSGs and access policies**.
-
-**From your notes:** shared responsibilities; IaaS/PaaS/SaaS customer/provider split. **Editorial clarification:** responsibility depends on the service, not only the acronym.
