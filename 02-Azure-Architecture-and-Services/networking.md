@@ -18,8 +18,6 @@ Key capabilities: resource-to-resource communication, internet connectivity (whe
 | Usable hosts in a conventional on-premises IPv4 `/24` subnet | Usually 254 |
 | **Azure subnet reserved addresses** | **5 per subnet** (so a `/24` Azure subnet ordinarily has **251 assignable IPs**) |
 
-> [!WARNING]
-> A note showing the mask `255.255.255.255` for a `/24` range is incorrect: that mask represents **`/32`**. Also, **254 traditional usable addresses** should not be confused with **251 Azure-assignable addresses** after Microsoft's five reservations.
 
 ## Public vs private connectivity
 
@@ -60,4 +58,4 @@ flowchart LR
   V <-->|VNet peering| V2[Other Azure VNet]
 ```
 
-**From your notes:** VNet/subnet, endpoints, VPN types, ExpressRoute, Azure DNS and Front Door. **Corrections:** subnet mask, Azure address reservations, public access nuance, ExpressRoute encryption nuance.
+**my notes:** VNet/subnet, endpoints, VPN types, ExpressRoute, Azure DNS and Front Door. **Corrections:** subnet mask, Azure address reservations, public access nuance, ExpressRoute encryption nuance.
