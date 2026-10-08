@@ -34,6 +34,3 @@
 - **Portal:** GUI; **Cloud Shell:** browser shell; **CLI/PowerShell:** automation; **Arc:** outside-Azure resources.
 - **Advisor:** recommendations; **Monitor:** metrics/logs/alerts; **Application Insights:** app performance.
 - **Service Health:** Azure platform impacts; **Resource Health:** individual resource impacts.
-
-> [!WARNING]
-> Before your exam, confirm the current [Microsoft study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900). Feature availability, prices and exam boundaries can change.
