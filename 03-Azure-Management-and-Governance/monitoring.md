@@ -45,5 +45,3 @@ flowchart LR
 
 > [!TIP]
 > “Azure outage in a region?” → **Service Health**. “One VM has failed?” → **Resource Health**. “Web app latency trending up?” → **Application Insights**. “Recommend a cheaper VM?” → **Advisor**.
-
-**From your notes:** Advisor, Azure Monitor, alerts, Log Analytics and Application Insights. **Syllabus supplement:** Service Health / Resource Health distinctions.
