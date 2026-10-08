@@ -39,5 +39,3 @@ flowchart LR
 
 > [!TIP]
 > When an exam question combines existing local infrastructure with Azure, look for **hybrid**. When it mentions **multiple cloud providers**, look for **multicloud**.
-
-**From your notes:** cloud computing definition, public/private/hybrid/multicloud, Azure Arc. **Syllabus supplement:** example scenarios.
