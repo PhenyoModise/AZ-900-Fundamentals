@@ -43,5 +43,3 @@ Minimum retention periods, early deletion charges and availability differ by tie
 | **Azure File Sync** | Cache/synchronise Azure Files shares with Windows Servers |
 | **Azure Migrate** | Assess and move suitable on-premises workloads to Azure |
 | **Azure Data Box** | Move large amounts of data by shipping a physical device |
-
-**From your notes:** Blob, Files, Queues, Disks, Tables and Data Lake Storage Gen2. **Syllabus supplement:** storage tiers and file-transfer tools.
