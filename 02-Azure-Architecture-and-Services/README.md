@@ -18,6 +18,4 @@ This is the largest of the three exam areas. Know both **what each service does*
 > [!TIP]
 > Typical exam distractors: **region vs availability zone**, **VPN vs ExpressRoute**, **Blob vs Files vs Disk**, **authentication vs authorisation**, and **LRS vs ZRS vs GRS**.
 
-**Source notes:** architecture, networking, storage, migration, and identity/security PDF sets. Sections tagged **Syllabus supplement** address gaps in those files.
-
 [Next: Core architecture →](architecture.md)
